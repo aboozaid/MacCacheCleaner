@@ -103,16 +103,6 @@
       "locations": [
         "~/.gradle/caches/"
       ]
-    },
-    {
-      "id": "bundler",
-      "name": "Bundler",
-      "description": "Bundler makes sure Ruby applications run the same code on every machine.",
-      "homepage": "https://bundler.io/",
-      "image": "https://twitter.com/bundlerio/photo",
-      "locations": [
-        "~/.bundle/cache/"
-      ]
     }
   ]
 }
