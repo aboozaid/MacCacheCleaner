@@ -93,6 +93,26 @@
         "~/.android/build-cache/",
         "~/.android/cache/"
       ]
+    },
+    {
+      "id": "gradle",
+      "name": "Gradle",
+      "description": "is a build tool with a focus on build automation and support for multi-language development.",
+      "homepage": "gradle.org",
+      "image": "https://github.com/gradle/gradle/blob/master/gradle.png",
+      "locations": [
+        "~/.gradle/caches/"
+      ]
+    },
+    {
+      "id": "bundler",
+      "name": "Bundler",
+      "description": "Bundler makes sure Ruby applications run the same code on every machine.",
+      "homepage": "https://bundler.io/",
+      "image": "",
+      "locations": [
+        "~/.bundle/cache/"
+      ]
     }
   ]
 }
