@@ -82,6 +82,17 @@
         "~/Library/Caches/Firefox",
         "~/Library/Caches/org.mozilla.firefox"
       ]
+    },
+    {
+      "id": "studio",
+      "name": "Android Studio",
+      "description": "Android Studio is one of the largest IDE used widely to build native android apps using Java/Kotlin.",
+      "homepage": "https://developer.android.com/studio",
+      "image": "https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg",
+      "locations": [
+        "~/.android/build-cache/",
+        "~/.android/cache/"
+      ]
     }
   ]
 }
